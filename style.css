@@ -1,0 +1,76 @@
+body {
+
+background-color: lightblue; 
+
+
+}
+
+h1 {
+
+font-family: 'Crimson Text', serif;
+font-size: 65px;
+text-align: center;
+
+	color:blue;
+
+}
+
+p {
+
+
+font-family: 'Crimson Text', serif;
+font-size: 40px;
+text-align: left;
+
+
+}
+img {
+
+display: block;
+height: 300px;
+width: 500px;
+
+}
+
+#title {
+
+    background-color:green;
+    width: 1135px;
+    height: 120px;
+    border-radius: 15px;
+}
+
+#main {
+background:#008ae6;
+
+a {
+
+font-size:700px;
+
+}
+
+dropdown {
+    position: relative;
+    display: block;
+    width: 50px;
+    height: 25px;
+}
+
+ .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 5px 15px 0px rgba(0,0,0,0.2);
+    padding: 50px 16px;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+span {
+
+font-size: 75px;
+font-family: 'Oswald', serif;
+
